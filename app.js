@@ -7,6 +7,6 @@ var b = document.getElementById("box2");
         }
         b.onmouseleave = function(){
             this.style.backgroundColor = "skyblue";
-        }
+        } 
     }
 
